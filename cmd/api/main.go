@@ -5,5 +5,8 @@ import (
 )
 
 func main() {
+	var a, b int
+	c := a + b
+	fmt.Println(c)
 	fmt.Println("main print")
 }
