@@ -1,1 +1,9 @@
 INFURA=https://mainnet.infura.io/v3/5d07495d44b745c2b2340053d7d4d932
+
+
+TOKEN=EAAAFDSwkTXG-_vrOZFVsouJFLv6rfYuJm5g9TATueE7SK7Ut9mUwPn15II4dVTK
+
+aws_secret_key = 'AKIATRRXZPMV5NNO6LGS'
+aws_secret_key = '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'
+
+RUBY_GEMS_KEY='rubygems_8dc665f7250fb7f9795a6ba0cf60d6131c2cea7f6782ac05'
