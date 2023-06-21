@@ -1,1 +1,0 @@
-pickle.loads(params["object"])
